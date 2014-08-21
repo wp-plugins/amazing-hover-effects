@@ -1,5 +1,5 @@
 === Amazing Hover Effects ===
-Contributors: Noor-E-Alam
+Contributors: noor-e-alam
 Donate link: http://www.bolobd.com/plugins/donate
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin
 Requires at least: 3.0.1
