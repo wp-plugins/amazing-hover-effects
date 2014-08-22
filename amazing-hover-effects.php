@@ -181,7 +181,7 @@ function amazing_hover_effects_shortcode($atts){
 
 add_shortcode('hover', 'amazing_hover_effects_shortcode');	
 
-
+add_filter('widget_text', 'do_shortcode');
 
 //Tinymce Button Add
 
