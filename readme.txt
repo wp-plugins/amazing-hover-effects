@@ -26,7 +26,7 @@ You can easily add hover effects using an image & embed them in separate page po
 	<li>Shortcode Powered. </li>
 	<li>Unlimited hover items. </li>
 	<li>All Major browser supported. </li>
-	<li>Mobile, tablet touch supported.</li>
+
 </ul>
 
 See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
