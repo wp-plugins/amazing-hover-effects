@@ -52,5 +52,7 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 1.1 =
+* Improved admin panel
 = 1.0 =
 * First Release
