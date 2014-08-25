@@ -4,7 +4,7 @@ Donate link: http://www.bolobd.com/plugins/donate
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 1.0
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
