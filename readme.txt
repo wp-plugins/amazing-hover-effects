@@ -30,7 +30,7 @@ You can easily add hover effects using an image & embed them in separate page po
 </ul>
 
 
-<strong>Pro Version Features</strong>
+<strong><a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>External link for each hover item.</li>
 	<li>Custom hover image width. </li>
