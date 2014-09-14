@@ -17,7 +17,7 @@ return array(
     'type' => 'notebox',
     'name' => 'nb_1',
     'label' => __('Author Comment', 'vp_textdomain'),
-    'description' => __('If you want to enable this awesome features, you need to buy pro version here <a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Amazing Hover Effects Pro</a>', 'vp_textdomain'),
+    'description' => __('If you want to enable this awesome features, simply buy pro version here <a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Amazing Hover Effects Pro</a>', 'vp_textdomain'),
     'status' => 'info',
     ),
 
@@ -131,6 +131,38 @@ return array(
 					),
 				),
 			
+							array(
+					'type' => 'slider',
+					'name' => 'width',
+					'label' => __('Image Width', 'vp_textdomain'),
+					'description' => __('(Pro Only)', 'vp_textdomain'),
+					'min' => '100',
+					'max' => '300',
+					'step' => '1',
+					'default' => '220',
+				),	
+				
+				array(
+					'type' => 'slider',
+					'name' => 'height',
+					'label' => __('Image Height', 'vp_textdomain'),
+					'description' => __('(Pro Only)', 'vp_textdomain'),
+					'min' => '100',
+					'max' => '300',
+					'step' => '1',
+					'default' => '220',
+				),	
+
+				array(
+					'type' => 'slider',
+					'name' => 'letf_right',
+					'label' => __('Move Image Left Right', 'vp_textdomain'),
+					'description' => __('(Pro Only)', 'vp_textdomain'),
+					'min' => '-20',
+					'max' => '100',
+					'step' => '1',
+					'default' => '12',
+				),
 		
 			/*	array(
 					'type' => 'notebox',
