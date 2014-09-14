@@ -29,6 +29,17 @@ You can easily add hover effects using an image & embed them in separate page po
 
 </ul>
 
+
+<strong>Pro Version Features</strong>
+<ul>
+	<li>External link for each hover item.</li>
+	<li>Custom hover image width. </li>
+	<li>Custom hover image height. </li>
+	<li>Move hover image to left and right. </li>
+	<li>24/7 Support. </li>
+
+</ul>
+
 See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
 
 == Installation ==
