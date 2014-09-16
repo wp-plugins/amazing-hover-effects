@@ -5,7 +5,7 @@ Plugin URI: http://www.bolobd.com/plugins/amazing-hover-effects/
 Description: Amazing Hover Effects is an impressive hover effects collection, powered by pure CSS3 and iHover, no dependency.
 Author: Noor-E-Alam
 Author URI: http://bolobd.com
-Version: 1.2
+Version: 1.3
 */
 
 //Loading CSS
