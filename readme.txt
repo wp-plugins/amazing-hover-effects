@@ -63,9 +63,19 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 1.3 =
+* Image link option and image width, height features added
+
 = 1.2 =
 * Added extra features
+
 = 1.1 =
 * Improved admin panel
+
 = 1.0 =
 * First Release
+
+
+== Upgrade Notice ==
+= 1.3 =
+Image link option and image width, height features added
