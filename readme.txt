@@ -4,7 +4,7 @@ Donate link: http://www.bolobd.com/plugins/donate
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.3
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,6 +63,10 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+
+= 1.5 =
+* Fixed Bugs
+
 = 1.3 =
 * Image link option and image width, height features added
 
@@ -77,5 +81,8 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+= 1.5 =
+* Fixed Bugs
+
 = 1.3 =
 Image link option and image width, height features added
