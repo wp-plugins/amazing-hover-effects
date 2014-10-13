@@ -30,7 +30,7 @@ You can easily add hover effects using an image & embed them in separate page po
 </ul>
 
 
-<strong><a href="http://www.wpvalueclub.com/amazing-hover-effects/">Pro Version Features</a></strong>
+<strong><a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>External link for each hover item.</li>
 	<li>Custom hover image width. </li>
@@ -40,7 +40,7 @@ You can easily add hover effects using an image & embed them in separate page po
 
 </ul>
 
-See live demo here: http://www.wpvalueclub.com/amazing-hover-effects/
+See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
 
 == Installation ==
 
