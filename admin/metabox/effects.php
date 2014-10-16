@@ -17,10 +17,31 @@ return array(
     'type' => 'notebox',
     'name' => 'nb_1',
     'label' => __('Author Comment', 'vp_textdomain'),
-    'description' => __('If you want to enable this awesome features, simply buy pro version here <a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Amazing Hover Effects Pro</a>', 'vp_textdomain'),
-    'status' => 'info',
+    'description' => __('If you want to enable this awesome features, you need to buy pro version from here <a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Amazing Hover Effects Pro</a>', 'vp_textdomain'),
+    'status' => 'error',
     ),
 
+	
+	
+				array(
+					'type' => 'select',
+					'name' => 'style',
+					'label' => __('Select Style', 'vp_textdomain'),
+					'default' => array(
+								'{{first}}',
+								),
+					'items' => array(
+						array(
+							'value' => 'circle',
+							'label' => 'Circle',
+						),
+						array(
+							'value' => 'square',
+							'label' => 'Square(Pro Only)',
+						),		
+	
+				),	),
+	
 				array(
 					'type' => 'select',
 					'name' => 'effect',
@@ -58,7 +79,7 @@ return array(
 							'label' => 'effect7',
 						),
 						array(
-							'value' => 'effect11',
+							'value' => 'effect8',
 							'label' => 'effect8',
 						),		
 						array(
@@ -66,11 +87,11 @@ return array(
 							'label' => 'effect9',
 						),
 						array(
-							'value' => 'effect14',
+							'value' => 'effect10',
 							'label' => 'effect10',
 						),
 						array(
-							'value' => 'effect15',
+							'value' => 'effect11',
 							'label' => 'effect11',
 						),
 						array(
@@ -78,8 +99,36 @@ return array(
 							'label' => 'effect12',
 						),
 						array(
-							'value' => 'effect16',
+							'value' => 'effect13',
 							'label' => 'effect13',
+						),
+						array(
+							'value' => 'effect14',
+							'label' => 'effect14',
+						),
+						array(
+							'value' => 'effect15',
+							'label' => 'effect15',
+						),
+						array(
+							'value' => 'effect16',
+							'label' => 'effect16',
+						),
+						array(
+							'value' => 'effect17',
+							'label' => 'effect17',
+						),
+						array(
+							'value' => 'effect18',
+							'label' => 'effect18',
+						),
+						array(
+							'value' => 'effect19',
+							'label' => 'effect19',
+						),	
+						array(
+							'value' => 'effect20',
+							'label' => 'effect20',
 						),
 
 					),
