@@ -4,7 +4,7 @@ Donate link: http://www.bolobd.com/plugins/donate
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 2.0
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,7 @@ You can easily add hover effects using an image & embed them in separate page po
 <strong>Features</strong>
 <ul>
 	<li>Super easy Installation. </li>
+	<li>35+ Hover Effects. </li>
 	<li>Custom post enabled. </li>
 	<li>Category Support. </li>
 	<li>Amazing option panel. </li>
@@ -33,8 +34,11 @@ You can easily add hover effects using an image & embed them in separate page po
 <strong><a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>External link for each hover item.</li>
-	<li>Custom hover image width. </li>
-	<li>Custom hover image height. </li>
+	<li>35+ Hover Effects.</li>
+	<li>2 Styles (circle & square).</li>
+	<li>Unlimited Hover Items.</li>
+	<li>Custom Hover Image Width. </li>
+	<li>Custom Hover Image Height. </li>
 	<li>Move hover image to left and right. </li>
 	<li>24/7 Support. </li>
 
@@ -63,6 +67,8 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 3.0 =
+* Added more hover effects
 
 = 2.0 =
 * Improved flexibility
@@ -84,6 +90,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+= 3.0 =
+* Added more hover effects
+
 = 2.0 =
 * Improved flexibility
 
