@@ -1,7 +1,7 @@
 === Amazing Hover Effects ===
 Contributors: noor-e-alam
 Donate link: http://www.bolobd.com/plugins/donate
-Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin
+Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 3.0
