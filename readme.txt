@@ -17,6 +17,9 @@ Amazing Hover Effects WordPress is an impressive hover effects collection, power
 
 You can easily add hover effects using an image & embed them in separate page post or widgets. 
 
+
+See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
+
 <strong>Features</strong>
 <ul>
 	<li>Super easy Installation. </li>
@@ -44,7 +47,7 @@ You can easily add hover effects using an image & embed them in separate page po
 
 </ul>
 
-See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
+
 
 == Installation ==
 
