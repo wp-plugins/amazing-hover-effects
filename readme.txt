@@ -4,7 +4,7 @@ Donate link: http://www.bolobd.com/plugins/donate
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 3.0
+Stable tag: 3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 3.1 =
+* Fixed language issue
+
 = 3.0 =
 * Added more hover effects
 
@@ -93,6 +96,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+= 3.1 =
+* Fixed language issue
+
 = 3.0 =
 * Added more hover effects
 
