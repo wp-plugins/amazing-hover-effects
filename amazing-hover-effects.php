@@ -111,8 +111,6 @@ function amazing_hover_effects_shortcode($atts){
 		$id = get_the_ID();	
 
 
-					
-					
 	$infos = vp_metabox('infosmeta.hover_info', false);	
 	$style = vp_metabox('effectsmeta.effects.0.style', false);	
 	$effect = vp_metabox('effectsmeta.effects.0.effect', false);	
