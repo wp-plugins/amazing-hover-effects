@@ -38,6 +38,10 @@ return array(
 						array(
 							'value' => 'square',
 							'label' => 'Square(Pro Only)',
+						),	
+						array(
+							'value' => 'caption',
+							'label' => 'Caption(Pro Only)',
 						),		
 	
 				),	),
