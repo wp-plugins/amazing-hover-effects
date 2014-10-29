@@ -4,7 +4,7 @@ Donate link: http://www.bolobd.com/plugins/donate
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 3.1
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Amazing Hover Effects WordPress is an impressive hover effects powered by pure C
 
 == Description ==
 
-Amazing Hover Effects WordPress is an impressive hover effects collection, powered by pure CSS3 and iHover, no dependency. 
+Amazing Hover Effects is an impressive hover effects collection, powered by pure CSS3 and iHover, no dependency. 55+ effects to choose and 3 styles.
 
 You can easily add hover effects using an image & embed them in separate page post or widgets. 
 
@@ -23,9 +23,11 @@ See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
 <strong>Features</strong>
 <ul>
 	<li>Super easy Installation. </li>
-	<li>35+ Hover Effects. </li>
+	<li>Pure CSS3 Effects </li>
+	<li>20+ Hover Effects (free version). </li>
 	<li>Custom post enabled. </li>
 	<li>Category Support. </li>
+	<li>Custom ordering. </li>
 	<li>Amazing option panel. </li>
 	<li>Shortcode Powered. </li>
 	<li>Unlimited hover items. </li>
@@ -37,8 +39,8 @@ See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
 <strong><a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>External link for each hover item.</li>
-	<li>35+ Hover Effects.</li>
-	<li>2 Styles (circle & square).</li>
+	<li>55+ Hover Effects.</li>
+	<li>3 Styles (Circle, Square, Caption).</li>
 	<li>Unlimited Hover Items.</li>
 	<li>Custom Hover Image Width. </li>
 	<li>Custom Hover Image Height. </li>
@@ -70,6 +72,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 3.2 =
+* Added new style and 20+ effects
+
 = 3.1 =
 * Fixed language issue
 
@@ -96,6 +101,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+= 3.2 =
+* Added new style and 20+ effects
+
 = 3.1 =
 * Fixed language issue
 
