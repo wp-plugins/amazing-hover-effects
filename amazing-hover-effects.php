@@ -110,7 +110,7 @@ function amazing_hover_effects_shortcode($atts){
 		while($q->have_posts()) : $q->the_post();
 		$id = get_the_ID();	
 
-
+// Calling metabox data
 	$infos = vp_metabox('infosmeta.hover_info', false);	
 	$style = vp_metabox('effectsmeta.effects.0.style', false);	
 	$effect = vp_metabox('effectsmeta.effects.0.effect', false);	
