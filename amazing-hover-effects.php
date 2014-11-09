@@ -75,7 +75,6 @@ function amazing_hover_effects_custom_post_taxonomy() {
 require 'admin/metabox/icon.php';
 
 // Load Metaboxes 
-
 new VP_Metabox(array
 (
 			'id'          => 'infosmeta',
