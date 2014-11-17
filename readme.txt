@@ -72,6 +72,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 3.4 =
+* Removes widget support
+
 = 3.3 =
 * Fixed bugs
 
@@ -104,6 +107,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+= 3.4 =
+* Removes widget support
+
 = 3.3 =
 * Fixed bugs
 
