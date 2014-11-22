@@ -1,6 +1,6 @@
 === Amazing Hover Effects ===
 Contributors: noor-e-alam
-Donate link: http://www.bolobd.com/plugins/donate
+Donate link: http://demo.wpvalueclub.com/amazing-hover-effects/
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.0
@@ -18,7 +18,7 @@ Amazing Hover Effects is an impressive hover effects collection, powered by pure
 You can easily add hover effects using an image & embed them in separate page post or widgets. 
 
 
-See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
+See live demo here: http://demo.wpvalueclub.com/amazing-hover-effects/
 
 <strong>Features</strong>
 <ul>
@@ -36,7 +36,7 @@ See live demo here: http://www.bolobd.com/plugins/amazing-hover-effects/
 </ul>
 
 
-<strong><a href="http://www.bolobd.com/plugins/amazing-hover-effects/">Pro Version Features</a></strong>
+<strong><a href="http://demo.wpvalueclub.com/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>External link for each hover item.</li>
 	<li>55+ Hover Effects.</li>
