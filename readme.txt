@@ -3,8 +3,8 @@ Contributors: noor-e-alam
 Donate link: http://demo.wpvalueclub.com/amazing-hover-effects/
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 3.2
+Tested up to: 4.1
+Stable tag: 3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -72,6 +72,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 3.5 =
+* Fixed issue
+
 = 3.4 =
 * Removes widget support
 
@@ -107,6 +110,10 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+
+= 3.5 =
+* Fixed issue
+
 = 3.4 =
 * Removes widget support
 
