@@ -242,7 +242,7 @@ function amazing_hover_effects_shortcode($atts){
         }
 
 		if($style=="circle" && $effect=="effect11"){
-            $output .= '<div class="ih-item circle '.$colored.' effect11 '.$animation.'"><a href="#">
+            $output .= ' <div class="ih-item circle '.$colored.' effect11 '.$animation.'"><a href="#">
 							<div class="spinner"></div>
 								<div class="img"><img src="'.$info['image'].'"></div>
 									<div class="info">
