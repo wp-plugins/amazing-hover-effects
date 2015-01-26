@@ -1,10 +1,10 @@
 === Amazing Hover Effects ===
 Contributors: noor-e-alam
-Donate link: http://demo.wpvalueclub.com/amazing-hover-effects/
+Donate link: http://demo.wpeffects.com/amazing-hover-effects/
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 3.5
+Stable tag: 3.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,7 @@ Amazing Hover Effects is an impressive hover effects collection, powered by pure
 You can easily add hover effects using an image & embed them in separate page post or widgets. 
 
 
-See live demo here: http://demo.wpvalueclub.com/amazing-hover-effects/
+See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 
 <strong>Features</strong>
 <ul>
@@ -36,7 +36,7 @@ See live demo here: http://demo.wpvalueclub.com/amazing-hover-effects/
 </ul>
 
 
-<strong><a href="http://demo.wpvalueclub.com/amazing-hover-effects/">Pro Version Features</a></strong>
+<strong><a href="http://demo.wpeffects.com/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>External link for each hover item.</li>
 	<li>55+ Hover Effects.</li>
@@ -71,6 +71,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 3. Shortcode button in editor
 
 == Changelog ==
+
+= 3.6 =
+* Updated links
 
 = 3.5 =
 * Fixed issue
@@ -110,6 +113,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+
+= 3.6 =
+* Updated links
 
 = 3.5 =
 * Fixed issue
