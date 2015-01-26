@@ -18,7 +18,7 @@ return array(
     'type' => 'notebox',
     'name' => 'nb_1',
     'label' => __('Author Comment', 'vp_textdomain'),
-    'description' => __('If you want to enable this awesome features, you need to buy pro version from here <a href="http://demo.wpvalueclub.com/amazing-hover-effects/">Amazing Hover Effects Pro</a>', 'vp_textdomain'),
+    'description' => __('If you want to enable this awesome features, you need to buy pro version from here <a href="http://demo.wpeffects.com/amazing-hover-effects/">Amazing Hover Effects Pro</a>', 'vp_textdomain'),
     'status' => 'error',
     ),
 	
