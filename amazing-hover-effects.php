@@ -45,7 +45,6 @@ function amazing_hover_effects_custom_post() {
 			'has_archive' => true,
 			'rewrite' => array('slug' => 'hover-effects'),
 			'menu_icon' => '',
-			//'menu_position' => 5,
 		)
 	);
 	
