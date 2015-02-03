@@ -45,6 +45,8 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 	<li>Custom Hover Image Width. </li>
 	<li>Custom Hover Image Height. </li>
 	<li>Move hover image to left and right. </li>
+	<li>Remove Border. </li>
+	<li>Open link in new tab. </li>
 	<li>24/7 Support. </li>
 
 </ul>
