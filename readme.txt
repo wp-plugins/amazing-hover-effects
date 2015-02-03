@@ -4,7 +4,7 @@ Donate link: http://demo.wpeffects.com/amazing-hover-effects/
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 3.6
+Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,9 +58,7 @@ Installing this plugin as regular wordpress plugin.
 After install, this plugin enable a custom post called <strong>Hover Effects</strong>. Add category & items on that custom post. 
 After adding items, you are ready to use this plugin in your post, page, widget or anywhere you like. 
 
-Go to page > Add New. On the editor, you will see a button called Hover Shortcode by clicking button you see the shortcode like <code>[hover category="Category_Name"]</code>
-
-Use category title, not category id or slag. Make sure spelling is ok. It is case sensitive. 
+Go to page > Add New. On the editor, you will see a button called Hover Shortcode by clicking button you see a popuop about shortcode settings panel. First you need enter your category. Use category title, not category id or slag. Make sure spelling is ok. It is case sensitive. You can customize the plugin with plugin settings option, after customizing click insert and save the page.
 
 
 
@@ -71,6 +69,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 3. Shortcode button in editor
 
 == Changelog ==
+
+= 4.0 =
+* Upgraded settings panel with more options
 
 = 3.6 =
 * Updated links
@@ -113,6 +114,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 
 == Upgrade Notice ==
+
+= 4.0 =
+* Upgraded settings panel with more options
 
 = 3.6 =
 * Updated links
