@@ -11,7 +11,7 @@ Version: 4.0
 //Loading CSS
 function amazing_hover_effects_style() {
 
-	wp_enqueue_style('hover_effects_stylesheet', plugins_url( '/css/ihover.css' , __FILE__ ) );
+	wp_enqueue_style('hover_effects_css', plugins_url( '/css/ihover.css' , __FILE__ ) );
 
 }
 
