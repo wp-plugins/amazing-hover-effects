@@ -241,6 +241,25 @@ return array(
 						),
 					),
 					
+				array(
+					'type' => 'slider',
+					'name' => 'heading_font',
+					'label' => __('Heading Font Size <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'min' => '1',
+					'max' => '50',
+					'step' => '1',
+					'default' => '25',
+				),
+					array(
+					'type' => 'slider',
+					'name' => 'desc_font',
+					'label' => __('Description Font Size <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'min' => '1',
+					'max' => '50',
+					'step' => '1',
+					'default' => '12',
+				),
+					
 
 
 				
