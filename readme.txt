@@ -4,7 +4,7 @@ Donate link: http://demo.wpeffects.com/amazing-hover-effects/
 Tags: hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 4.1
+Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,7 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 	<li>Unlimited Hover Items.</li>
 	<li>Custom Hover Image Width. </li>
 	<li>Custom Hover Image Height. </li>
+	<li>Custom Font Size. </li>
 	<li>Move hover image to left and right. </li>
 	<li>Remove Border. </li>
 	<li>Open link in new tab. </li>
@@ -71,6 +72,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 3. Shortcode button in editor
 
 == Changelog ==
+
+= 4.2 =
+* Custom font size option added
 
 = 4.1 =
 * Added shortcode generator on editor
@@ -119,6 +123,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 
 
 == Upgrade Notice ==
+
+= 4.2 =
+* Custom font size option added
 
 = 4.1 =
 * Added shortcode generator on editor
