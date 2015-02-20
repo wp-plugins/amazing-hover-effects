@@ -21,7 +21,7 @@ You can easily add hover effects using an image & embed them in separate page po
 See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uegzhmXHAog" frameborder="0" allowfullscreen></iframe>
+[youtube https://www.youtube.com/embed/uegzhmXHAog]
 
 <strong>Features</strong>
 <ul>
