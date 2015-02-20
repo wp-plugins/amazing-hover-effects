@@ -20,8 +20,9 @@ You can easily add hover effects using an image & embed them in separate page po
 
 See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 
+<strong>Video Tutorial:</strong>
 
-[youtube https://www.youtube.com/embed/uegzhmXHAog]
+[youtube https://www.youtube.com/watch?v=uegzhmXHAog&]
 
 <strong>Features</strong>
 <ul>
