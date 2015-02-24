@@ -27,13 +27,13 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 <strong>Features</strong>
 <ul>
 	<li>Super easy Installation. </li>
-	<li>Pure CSS3 Effects </li>
-	<li>20+ Hover Effects (free version). </li>
+	<li>Pure CSS3 Effects. </li>
+	<li>20+ Hover Effects.</li>
 	<li>Custom post enabled. </li>
 	<li>Category Support. </li>
 	<li>Custom ordering. </li>
 	<li>Amazing option panel. </li>
-	<li>Shortcode Powered. </li>
+	<li>Shortcode generator. </li>
 	<li>Unlimited hover items. </li>
 	<li>All Major browser supported. </li>
 
@@ -46,11 +46,11 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 	<li>55+ Hover Effects.</li>
 	<li>3 Styles (Circle, Square, Caption).</li>
 	<li>Unlimited Hover Items.</li>
-	<li>Custom Hover Image Width. </li>
-	<li>Custom Hover Image Height. </li>
+	<li>Custom Thumbnail Width. </li>
+	<li>Custom Thumbnail Height. </li>
 	<li>Custom Font Size. </li>
-	<li>Move hover image to left and right. </li>
-	<li>Remove Border. </li>
+	<li>Custom Thumbnails Adjustment. </li>
+	<li>Show/Hide Border. </li>
 	<li>Open link in new tab. </li>
 	<li>24/7 Support. </li>
 
