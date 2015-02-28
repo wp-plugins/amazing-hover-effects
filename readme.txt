@@ -4,7 +4,7 @@ Donate link: http://demo.wpeffects.com/amazing-hover-effects/
 Tags: css3 image caption, hover effect, css3 hover effects, wordpress ihover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 4.2
+Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,7 +42,7 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 
 <strong><a href="http://demo.wpeffects.com/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
-	<li>External link for each hover item.</li>
+	<li>Fully Responsive.</li>
 	<li>55+ Hover Effects.</li>
 	<li>3 Styles (Circle, Square, Caption).</li>
 	<li>Unlimited Hover Items.</li>
@@ -50,6 +50,7 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 	<li>Custom Thumbnail Height. </li>
 	<li>Custom Font Size. </li>
 	<li>Custom Thumbnails Adjustment. </li>
+	<li>External link for each hover item.</li>
 	<li>Show/Hide Border. </li>
 	<li>Open link in new tab. </li>
 	<li>24/7 Support. </li>
@@ -76,6 +77,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 3. Shortcode button in editor
 
 == Changelog ==
+
+= 4.3 =
+* Fully responsive in pro version
 
 = 4.2 =
 * Custom font size option added
@@ -127,6 +131,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 
 
 == Upgrade Notice ==
+
+= 4.3 =
+* Fully responsive in pro version
 
 = 4.2 =
 * Custom font size option added
