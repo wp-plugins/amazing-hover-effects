@@ -30,7 +30,7 @@ require 'framework/bootstrap.php';
 
 }
 
-// Registering Custom Post
+// Registering Custom Post type
 add_action( 'init', 'amazing_hover_effects_custom_post' );
 function amazing_hover_effects_custom_post() {
 	register_post_type( 'hover-effect',
@@ -108,7 +108,7 @@ require_once(VP_PLUGIN_DIR . 'admin/shortcodes.php');
     
 	$sg = new VP_ShortcodeGenerator($tmpl_sg);
     
-	}
+}
 	
   
   // the safest hook to use, since Vafpress Framework may exists in Theme or Plugin
