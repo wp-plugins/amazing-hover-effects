@@ -142,7 +142,7 @@ return array(
 				array(
 					'type' => 'select',
 					'name' => 'animation',
-					'label' => __('Animation Direction', 'vp_textdomain'),
+					'label' => __('Animation Direction When Hover', 'vp_textdomain'),
 					'default' => array(
 								'{{first}}',
 								),
