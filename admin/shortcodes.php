@@ -2,7 +2,7 @@
 
 
 
-// Register Shortcode
+// Registering Hover Shortcode
 function amazing_hover_effects_shortcode($atts){
 	extract( shortcode_atts( array(
 	
