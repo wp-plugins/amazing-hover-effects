@@ -85,7 +85,7 @@
 				{
 					items_bind && items_binding.push({bind: items_bind, type: type, source: id});
 				}
-				// init dependancies
+				// init dependancies for metabox
 				if(typeof dep !== 'undefined' && dep !== false)
 				{
 					dep && dependencies.push({dep: dep, type: 'field', source: id});
