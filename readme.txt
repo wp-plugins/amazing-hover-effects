@@ -78,6 +78,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 
 == Changelog ==
 
+= 4.4 =
+* Updated Links
+
 = 4.3 =
 * Fully responsive in pro version
 
@@ -131,6 +134,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 
 
 == Upgrade Notice ==
+
+= 4.4 =
+* Updated Links
 
 = 4.3 =
 * Fully responsive in pro version
