@@ -188,7 +188,7 @@ return array(
 					),
 				),
 			
-							array(
+				array(
 					'type' => 'slider',
 					'name' => 'width',
 					'label' => __('Image Width (<strong>Pro Only</strong>)','vp_textdomain'),
