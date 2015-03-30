@@ -184,7 +184,7 @@ return array(
 						array(
 								'value' => '',
 								'label' => __('No', 'vp_textdomain'),
-				),
+						),
 					),
 				),
 			
