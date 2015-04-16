@@ -90,7 +90,7 @@ require_once(VP_PLUGIN_DIR . 'admin/shortcodes.php');
 
 
 //Shortcode Generator 
-    function hover_effects__init_shortcodegenerator()
+    function hover_effects_init_shortcodegenerator()
     {
     // Built path to shortcode generator template array file
     //$sg_path = VP_TEAM_DIR() . '/admin/shortcode.php';
@@ -112,6 +112,6 @@ require_once(VP_PLUGIN_DIR . 'admin/shortcodes.php');
 	
   
   // the safest hook to use, since Vafpress Framework may exists in Theme or Plugin
-    add_action( 'after_setup_theme', 'hover_effects__init_shortcodegenerator' )
+    add_action( 'after_setup_theme', 'hover_effects_init_shortcodegenerator' )
 
 ?>
