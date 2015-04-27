@@ -4,7 +4,7 @@ Donate link: http://demo.wpeffects.com/amazing-hover-effects/
 Tags: css3 image caption, hover effect, css3 hover effects, css3 transition, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, photoset, picture, pictures, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 4.4.3
+Stable tag: 4.4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,7 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 	<li>Super easy Installation. </li>
 	<li>Pure CSS3 Effects. </li>
 	<li>20+ Hover Effects.</li>
+	<li>SEO friendly.</li>
 	<li>Custom post enabled. </li>
 	<li>Category Support. </li>
 	<li>Custom ordering. </li>
@@ -77,6 +78,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 3. Shortcode button in editor
 
 == Changelog ==
+
+= 4.4.4 =
+* Seo friendly and latest version compitable
 
 = 4.4.3 =
 * Fixed installing error
@@ -143,6 +147,9 @@ Go to page > Add New. On the editor, you will see a button called Hover Shortcod
 
 
 == Upgrade Notice ==
+
+= 4.4.4 =
+* Seo friendly and latest version compitable
 
 = 4.4.3 =
 * Fixed installing error
