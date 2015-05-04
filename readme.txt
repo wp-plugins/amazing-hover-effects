@@ -1,7 +1,7 @@
 === Amazing Hover Effects ===
 Contributors: noor-e-alam
 Donate link: http://demo.wpeffects.com/amazing-hover-effects/
-Tags: css3 image caption, hover effect, css3 hover effects, css3 transition,  	animation, button, circle, css3, gallery, grid, hover, lightbox, marketing, popup, square, thumbnail, transition,caption, colors, css3, hover, image, portfolio,  	Caption Wordpress Plugin, Css Caption Plugin, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, photoset, picture, pictures, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
+Tags: css3 image caption, hover effect, css3 hover effects, css3 transition, animation, button, circle, css3, gallery, grid, hover, lightbox, marketing, popup, square, thumbnail, transition, caption, colors, css3, hover, image, portfolio, Caption Wordpress Plugin, Css Caption Plugin, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, photoset, picture, pictures, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 4.4.5
