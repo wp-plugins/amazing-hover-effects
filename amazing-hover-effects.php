@@ -5,20 +5,20 @@ Plugin URI: http://demo.wpeffects.com/amazing-hover-effects/
 Description: Amazing Hover Effects is an impressive hover effects collection, powered by pure CSS3 and iHover, no dependency. 55+ effects to choose and 3 styles.
 Author: Noor-E-Alam
 Author URI: http://demo.wpeffects.com/amazing-hover-effects/
-Version: 4.4.7
+Version: 4.4.8
 */
 
 //Loading CSS
 function amazing_hover_effects_style() {
 
-	wp_enqueue_style('hover_effects_css', plugins_url( '/css/ihover.css' , __FILE__ ) );
+	wp_enqueue_style('amazing_hover_effects_css', plugins_url( '/css/ihover.css' , __FILE__ ) );
 
 }
 
 add_action( 'wp_enqueue_scripts', 'amazing_hover_effects_style' );
 
 if(!class_exists('VP_HAutoLoader')){
-// Setup Contants
+// Setup Contants 
 defined( 'VP_PLUGIN_VERSION' ) or define( 'VP_PLUGIN_VERSION', '2.0' );
 defined( 'VP_PLUGIN_URL' )     or define( 'VP_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 defined( 'VP_PLUGIN_DIR' )     or define( 'VP_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
