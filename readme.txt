@@ -46,13 +46,17 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 	<li>Fully Responsive.</li>
 	<li>55+ Hover Effects.</li>
 	<li>3 Styles (Circle, Square, Caption).</li>
-	<li>Unlimited Hover Items.</li>
-	<li>Custom Thumbnail Width. </li>
-	<li>Custom Thumbnail Height. </li>
-	<li>Custom Font Size. </li>
-	<li>Custom Thumbnails Adjustment. </li>
+	<li>Unlimited hover items.</li>
+	<li>Custom thumbnail width. </li>
+	<li>Custom thumbnail height. </li>
+	<li>Custom font size both heading & description. </li>
+	<li>600+ Google fonts. </li>
+	<li>Unlimited heading font color. </li>
+	<li>Unlimited description font color. </li>
+	<li>Show / Hide texts underline. </li>
+	<li>Custom thumbnails adjustment. </li>
 	<li>External link for each hover item.</li>
-	<li>Show/Hide Border. </li>
+	<li>Show/Hide border. </li>
 	<li>Open link in new tab. </li>
 	<li>24/7 Support. </li>
 
