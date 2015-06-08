@@ -241,6 +241,20 @@ return array(
 						),
 					),
 					
+					array(
+					'type' => 'select',
+					'name' => 'fontfamily',
+					'label' => __('Custom Font <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'items' => array(
+						'data' => array(
+							array(
+								'source' => 'function',
+								'value' => 'vp_get_gwf_family',
+							),
+						),
+					),
+				),
+				
 				array(
 					'type' => 'slider',
 					'name' => 'heading_font',
@@ -250,6 +264,14 @@ return array(
 					'step' => '1',
 					'default' => '25',
 				),
+				
+				array(
+					'type' => 'color',
+					'name' => 'heading_color',
+					'label' => __('Heading Color <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'default' => '#e31f1f',
+				),
+				
 					array(
 					'type' => 'slider',
 					'name' => 'desc_font',
@@ -260,7 +282,12 @@ return array(
 					'default' => '12',
 				),
 					
-
+				array(
+					'type' => 'color',
+					'name' => 'desc_color',
+					'label' => __('Description Color <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'default' => '#513f3f',
+				),
 
 				
 				),
