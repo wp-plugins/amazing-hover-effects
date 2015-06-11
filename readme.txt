@@ -59,6 +59,7 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 	<li>Show/Hide border. </li>
 	<li>Open link in new tab. </li>
 	<li>24/7 Support. </li>
+	<li>Support within 12 hours. </li>
 
 </ul>
 
