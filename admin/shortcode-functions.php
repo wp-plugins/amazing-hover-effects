@@ -241,6 +241,16 @@ return array(
 						),
 					),
 					
+				array(
+					'type' => 'checkbox',
+					'name' => 'position',
+					'label' => __('Position Center(<strong>Pro Only</strong>)', 'vp_textdomain'),
+					'items' => array(
+						array(
+							'value' => 'center',
+						),
+					),
+					),					
 					array(
 					'type' => 'select',
 					'name' => 'fontfamily',
