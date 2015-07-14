@@ -73,7 +73,7 @@ Installing this plugin as regular wordpress plugin.
 After install, this plugin enable a custom post called <strong>Hover Effects</strong>. Add category & items on that custom post. 
 After adding items, you are ready to use this plugin in your post, page, widget or anywhere you like. 
 
-Go to page > Add New. On the editor, you will see a button called Hover Shortcode by clicking button you see a popuop about shortcode settings panel. First you need enter your category. Use category title, not category id or slag. Make sure spelling is ok. It is case sensitive. You can customize the plugin with plugin settings option, after customizing click insert and save the page.
+Go to page > Add New. On the editor, you will see a button called <strong>Hover Shortcode</strong> by clicking button you see a popuop about shortcode settings panel. First you need enter your category. Use category title, not category id or slag. Make sure spelling is ok. It is case sensitive. You can customize the plugin with plugin settings option, after customizing click insert and save the page.
 
 
 
