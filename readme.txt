@@ -13,7 +13,7 @@ Amazing Hover Effects WordPress is an impressive hover effects powered by pure C
 
 == Description ==
 
-Amazing Hover Effects is an impressive hover effects collection, powered by pure CSS3 and iHover, no dependency. 55+ effects to choose and 3 styles.
+Amazing Hover Effects is an impressive hover effects collection, powered by pure CSS3 and iHover, no dependency. 75+ effects to choose and 4 styles.
 
 You can easily add hover effects using an image & embed them in separate page post or widgets. 
 
