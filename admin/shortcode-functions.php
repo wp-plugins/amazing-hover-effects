@@ -42,6 +42,10 @@ return array(
 						array(
 							'value' => 'square',
 							'label' => 'Square(Pro Only)',
+						),
+						array(
+							'value' => 'square2',
+							'label' => 'Square 2(Pro Only)',
 						),	
 						array(
 							'value' => 'caption',
