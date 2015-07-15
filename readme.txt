@@ -1,10 +1,10 @@
 === Amazing Hover Effects ===
 Contributors: noor-e-alam
 Donate link: http://demo.wpeffects.com/amazing-hover-effects/
-Tags: awesome css3 effects, animated image wp, best photo caption, best hover effects, best image caption wordpress, wordpress animation, css3 image caption, hover effect, css3 hover effects, css3 transition, animation, button, circle, css3, creative, css, effect, gallery, grid, hover, image, material, minimal, 3d, animated, animation, clean, css, css3, effects, hover, gallery, grid, hover, square, thumbnail, transition, caption, css3, hover, image, Caption Wordpress Plugin, Css Caption Plugin, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, wp image caption, css3 transition, pure css3 effects, css3 hover item, css3 effects for wordpress
+Tags: awesome css3 effects, animated image wp, wordpress image hover plugin, image styles wordpress, best photo caption, best hover effects, best image caption wordpress, wordpress animation, css3 image caption, hover effect, css3 hover effects, css3 transition, animation, button, circle, css3, creative, css, effect, gallery, grid, hover, image, material, minimal, 3d, animated, animation, clean, css, css3, effects, hover, gallery, grid, hover, square, thumbnail, transition, caption, css3, hover, image, Caption Wordpress Plugin, Css Caption Plugin, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, wp image caption, css3 transition, pure css3 effects, css3 hover item, css3 effects for wordpress
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 4.6.1
+Stable tag: 4.7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,8 +44,8 @@ See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
 <strong><a href="http://demo.wpeffects.com/amazing-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>Fully Responsive.</li>
-	<li>55+ Hover Effects.</li>
-	<li>3 Styles (Circle, Square, Caption).</li>
+	<li>75+ Hover Effects.</li>
+	<li>4 Styles (Circle, Square, Square 2, Caption).</li>
 	<li>Unlimited hover items.</li>
 	<li>Custom thumbnail width. </li>
 	<li>Custom thumbnail height. </li>
@@ -84,6 +84,9 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 3. Shortcode button in editor
 
 == Changelog ==
+
+= 4.7.0 =
+* Updated style and effects
 
 = 4.6.1 =
 * Updated Tag
@@ -183,6 +186,9 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 
 
 == Upgrade Notice ==
+
+= 4.7.0 =
+* Updated style and effects
 
 = 4.6.1 =
 * Updated Tag
