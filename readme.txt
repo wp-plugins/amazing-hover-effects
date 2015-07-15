@@ -80,8 +80,10 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 == Screenshots ==
 
 1. Adding hover effects item.
-2. Option panel for this plugin.
-3. Shortcode button in editor
+2. Custom post for this plugin.
+3. Shortcode button in editor.
+4. Shortcode builder option.
+5. Shortcode builder option 2.
 
 == Changelog ==
 
