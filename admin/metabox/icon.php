@@ -1,6 +1,6 @@
 <?php
  
-function add_menu_icons_styles(){
+function add_menu_icon_styles(){
 ?>
  
 <style>
@@ -11,5 +11,5 @@ content: '\f105';
  
 <?php
 }
-add_action( 'admin_head', 'add_menu_icons_styles' );
+add_action( 'admin_head', 'add_menu_icon_styles' );
 ?>
