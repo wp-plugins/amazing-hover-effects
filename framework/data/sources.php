@@ -186,6 +186,7 @@ function vp_get_social_medias() {
 		array('value' => 'wordpress', 'label' => 'WordPress'),
 		array('value' => 'yahoo', 'label' => 'Yahoo!'),
 		array('value' => 'youtube', 'label' => 'Youtube'),
+		array('value' => 'wpeffects', 'label' => 'WPeffects'),
 	);
 
 	return $socmeds;
