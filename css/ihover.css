@@ -2768,6 +2768,7 @@
 .ih-item.square.effect4 {
   overflow: hidden;
   position: relative;
+  clear: both;
 }
 .ih-item.square.effect4.colored .info {
   background: rgba(12, 34, 52, 0.6);
