@@ -50,6 +50,10 @@ return array(
 						array(
 							'value' => 'caption',
 							'label' => 'Caption(Pro Only)',
+						),	
+						array(
+							'value' => 'others',
+							'label' => 'Others(Coming...)',
 						),		
 	
 				),	),
