@@ -87,7 +87,7 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 
 == Changelog ==
 
-= 4.7.8 =
+= 4.7.6 =
 * Added other effects
 
 = 4.7.5 =
@@ -207,7 +207,7 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 
 == Upgrade Notice ==
 
-= 4.7.8 =
+= 4.7.6 =
 * Added other effects
 
 = 4.7.5 =
