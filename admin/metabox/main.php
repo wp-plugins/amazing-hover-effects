@@ -50,7 +50,7 @@ return array(
 				'type'  => 'textbox',
 				'name'  => 'link',
 				'label' => __('Image Link (Pro Only)', 'vp_textdomain'),
-				'default' => '#',
+				'default' => 'http://google.com',
 			),
 
 		),
