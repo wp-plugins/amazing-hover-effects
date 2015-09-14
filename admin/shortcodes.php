@@ -20,9 +20,9 @@ function amazing_hover_effects_shortcode($atts){
         );
 	
 		while($q->have_posts()) : $q->the_post();
-		$id = get_the_ID();	
+		//$id = get_the_ID();	
 
-// Calling metabox data
+	// Calling metabox data
 	$infos = vp_metabox('infosmeta.hover_info', false);
 	
 	$i = 0;

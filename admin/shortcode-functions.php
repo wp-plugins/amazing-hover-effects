@@ -53,7 +53,7 @@ return array(
 						),	
 						array(
 							'value' => 'others',
-							'label' => 'Others(Coming...)',
+							'label' => 'Others',
 						),		
 	
 				),	),
