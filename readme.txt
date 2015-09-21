@@ -4,7 +4,7 @@ Donate link: http://demo.wpeffects.com/amazing-hover-effects/
 Tags: awesome css3 effects, top hover effects wordpress, animated image wp, 3d style effects, top image effects for wordpress, top image caption for wordpress, wordpress image hover plugin, image styles wordpress, best photo caption, best hover effects, best image caption wordpress, wordpress animation, css3 image caption, hover effect, css3 hover effects, css3 transition, animation, button, circle, css3, creative, css, effect, gallery, grid, hover, image, material, minimal, 3d, animated, animation, clean, css, css3, effects, hover, gallery, grid, hover, square, thumbnail, transition, caption, css3, hover, image, Caption Wordpress Plugin, Css Caption Plugin, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, wp image caption, css3 transition, content hover, captions, image captions, pure css3 effects, css3 hover item, css3 effects for wordpress
 Requires at least: 3.0.1
 Tested up to: 4.3
-Stable tag: 4.8.1
+Stable tag: 4.8.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ Amazing Hover Effects WordPress is an impressive hover effects powered by pure C
 
 Amazing Hover Effects is an impressive hover effects collection, powered by pure CSS3 and iHover, no dependency. 76+ effects to choose and 5 styles.
 
-You can easily add hover effects using an image & embed them in separate page post or widgets. 
+You can easily add hover effects using an image & embed them in separate page post or widgets via amazing shortcode builder. 
 
 
 See live demo here: http://demo.wpeffects.com/amazing-hover-effects/
@@ -86,6 +86,9 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 5. Shortcode builder option 2.
 
 == Changelog ==
+
+= 4.8.2 =
+* Added new functions
 
 = 4.8.1 =
 * Fixed shortcode popup issue
@@ -221,6 +224,9 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 
 
 == Upgrade Notice ==
+
+= 4.8.2 =
+* Added new functions
 
 = 4.8.1 =
 * Fixed shortcode popup issue

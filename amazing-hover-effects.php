@@ -110,8 +110,6 @@ require_once(VP_PLUGIN_DIR . 'admin/shortcodes.php');
     
 }
 	
-  
-  // the safest hook to use, since Vafpress Framework may exists in Theme or Plugin
     add_action( 'after_setup_theme', 'hover_effects_init_shortcodegenerator' )
 
 ?>
