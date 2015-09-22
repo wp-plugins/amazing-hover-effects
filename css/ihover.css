@@ -3951,14 +3951,6 @@
   -moz-transition-delay: 0.4s;
   transition-delay: 0.4s;
 }
-
-.ih-item.square.effect12.bottom_to_top .info {
-  -webkit-transform: translate(265px, 145px) rotate(45deg);
-  -moz-transform: translate(265px, 145px) rotate(45deg);
-  -ms-transform: translate(265px, 145px) rotate(45deg);
-  -o-transform: translate(265px, 145px) rotate(45deg);
-  transform: translate(265px, 145px) rotate(45deg);
-}
 .ih-item.square.effect12.bottom_to_top .info h3 {
   -webkit-transform: translate(200px, -200px);
   -moz-transform: translate(200px, -200px);
