@@ -2758,7 +2758,7 @@
   transform: translateY(50px);
 }
 .ih-item.square.effect3.top_to_bottom a:hover .info {
-  -webkit-transform: translateY(0);
+  -webkit-transform: translateY(10);
   -moz-transform: translateY(0);
   -ms-transform: translateY(0);
   -o-transform: translateY(0);
