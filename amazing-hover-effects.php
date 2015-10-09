@@ -25,7 +25,7 @@ defined( 'VP_PLUGIN_DIR' )     or define( 'VP_PLUGIN_DIR', plugin_dir_path( __FI
 defined( 'VP_PLUGIN_FILE' )    or define( 'VP_PLUGIN_FILE', __FILE__ );
 
 
-// Load Framework Bootstrap
+// Loading framework bootstrap
 require 'framework/bootstrap.php';
 
 }
