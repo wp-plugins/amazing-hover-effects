@@ -27,7 +27,7 @@ return array(
 
 					),
 
-									array(
+					array(
 					'type' => 'select',
 					'name' => 'style',
 					'label' => __('Select Style', 'vp_textdomain'),
