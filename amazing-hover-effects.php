@@ -14,7 +14,6 @@ function amazing_hover_effects_css() {
 	wp_enqueue_style('amazing_hover_effects_css', plugins_url( '/css/ihover.css' , __FILE__ ) );
 
 }
-
 add_action( 'wp_enqueue_scripts', 'amazing_hover_effects_css' );
 
 if(!class_exists('VP_HAutoLoader')){
