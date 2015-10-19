@@ -7,7 +7,8 @@
 
 function vp_get_categories()
 {
-	$wp_cat = get_categories(array('hide_empty' => 0 ));
+	$taxonomy = 'hover_cat';
+	$wp_cat = get_categories(array('taxonomy' => $taxonomy,'hide_empty' => 0 ));
 
 	$result = array();
 	foreach ($wp_cat as $cat)

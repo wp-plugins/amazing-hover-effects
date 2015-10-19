@@ -19,11 +19,21 @@ return array(
     'description' => __('To get all features working, please buy the pro version here <a target="_blank" href="http://demo.wpeffects.com/amazing-hover-effects/">Amazing Hover Effects Pro</a> for only $11', 'vp_textdomain'),
     'status' => 'error',
     ),
-					array(
-						'type'  => 'textbox',
-						'name'  => 'category',
-						'label' => __('Category Name', 'vp_textdomain'),
+					
 
+
+					array(
+						'type' => 'multiselect',
+						'name' => 'category',
+						'label' => __('Select Category', 'vp_textdomain'),
+						'items' => array(
+							'data' => array(
+								array(
+									'source' => 'function',
+									'value' => 'vp_get_categories',
+								),
+							),
+						),
 
 					),
 
