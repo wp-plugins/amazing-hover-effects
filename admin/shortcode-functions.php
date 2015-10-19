@@ -23,7 +23,7 @@ return array(
 
 
 					array(
-						'type' => 'multiselect',
+						'type' => 'select',
 						'name' => 'category',
 						'label' => __('Select Category', 'vp_textdomain'),
 						'items' => array(
