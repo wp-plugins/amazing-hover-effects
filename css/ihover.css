@@ -3929,7 +3929,7 @@
   transform: translate(0px, 0px);
   -webkit-transition-delay: 0.2s;
   -moz-transition-delay: 0.2s;
-  transition-delay: 0.2s;
+  transition-delay: 0.3s;
 }
 .ih-item.square.effect12.top_to_bottom a:hover .info h3 {
   -webkit-transform: translate(0px, 0px);
