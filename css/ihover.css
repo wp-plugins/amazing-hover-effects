@@ -4426,13 +4426,7 @@
   -o-transform-origin: 50% 100%;
   transform-origin: 50% 100%;
 }
-.ih-item.square.effect15.bottom_to_top a:hover .img {
-  -webkit-transform: rotateX(-90deg);
-  -moz-transform: rotateX(-90deg);
-  -ms-transform: rotateX(-90deg);
-  -o-transform: rotateX(-90deg);
-  transform: rotateX(-90deg);
-}
+
 .ih-item.square.effect15.bottom_to_top a:hover .info {
   -webkit-transform: rotateX(0);
   -moz-transform: rotateX(0);
