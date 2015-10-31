@@ -13,7 +13,7 @@ function vp_get_categories()
 	$result = array();
 	foreach ($wp_cat as $cat)
 	{
-		$result[] = array('value' => $cat->cat_ID, 'label' => $cat->name);
+		$result[] = array('value' => $cat->name, 'label' => $cat->name);
 	}
 	return $result;
 }
