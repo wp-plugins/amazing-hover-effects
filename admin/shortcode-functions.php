@@ -63,7 +63,7 @@ return array(
 						),	
 						array(
 							'value' => 'others',
-							'label' => 'Others',
+							'label' => 'Others (Pro Only)',
 						),		
 	
 				),	),
@@ -209,7 +209,7 @@ return array(
 				array(
 					'type' => 'slider',
 					'name' => 'width',
-					'label' => __('Image Width (<strong>Pro Only</strong>)','vp_textdomain'),
+					'label' => __('Image Width <br /><span style="color: #d63434">Pro Only</span>','vp_textdomain'),
 					'description' => __('(Pro Only)', 'vp_textdomain'),
 					'min' => '100',
 					'max' => '300',
@@ -220,7 +220,7 @@ return array(
 				array(
 					'type' => 'slider',
 					'name' => 'height',
-					'label' => __('Image Height (<strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Image Height <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'description' => __('(Pro Only)', 'vp_textdomain'),
 					'min' => '100',
 					'max' => '300',
@@ -231,7 +231,7 @@ return array(
 				array(
 					'type' => 'slider',
 					'name' => 'letf_right',
-					'label' => __('Move Image Left Right (<strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Move Image Left Right <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'description' => __('(Pro Only)', 'vp_textdomain'),
 					'min' => '-20',
 					'max' => '100',
@@ -241,7 +241,7 @@ return array(
 					array(
 						'type' => 'checkbox',
 						'name' => 'border',
-						'label' => __('Remove Border (<strong>Pro Only</strong>)', 'vp_textdomain'),
+						'label' => __('Remove Border <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 						'items' => array(
 							array(
 								'value' => 'remove',
@@ -251,7 +251,7 @@ return array(
 					array(
 						'type' => 'checkbox',
 						'name' => 'link_open',
-						'label' => __('Open In New Tab? (<strong>Pro Only</strong>)', 'vp_textdomain'),
+						'label' => __('Open In New Tab? <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 						'items' => array(
 							array(
 								'value' => '_blank',
@@ -262,7 +262,7 @@ return array(
 				array(
 					'type' => 'checkbox',
 					'name' => 'position',
-					'label' => __('Position Center(<strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Position Center <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'items' => array(
 						array(
 							'value' => 'center',
@@ -272,7 +272,7 @@ return array(
 					array(
 					'type' => 'select',
 					'name' => 'fontfamily',
-					'label' => __('Custom Font <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Custom Font <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'items' => array(
 						'data' => array(
 							array(
@@ -286,7 +286,7 @@ return array(
 				array(
 					'type' => 'slider',
 					'name' => 'heading_font',
-					'label' => __('Heading Font Size <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Heading Font Size <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'min' => '1',
 					'max' => '50',
 					'step' => '1',
@@ -296,14 +296,14 @@ return array(
 				array(
 					'type' => 'color',
 					'name' => 'heading_color',
-					'label' => __('Heading Color <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Heading Color <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'default' => '#e31f1f',
 				),
 				
 					array(
 					'type' => 'slider',
 					'name' => 'desc_font',
-					'label' => __('Description Font Size <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Description Font Size <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'min' => '1',
 					'max' => '50',
 					'step' => '1',
@@ -313,7 +313,7 @@ return array(
 				array(
 					'type' => 'color',
 					'name' => 'desc_color',
-					'label' => __('Description Color <strong>Pro Only</strong>)', 'vp_textdomain'),
+					'label' => __('Description Color <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 					'default' => '#513f3f',
 				),
 

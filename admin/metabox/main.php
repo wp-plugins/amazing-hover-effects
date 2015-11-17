@@ -49,7 +49,7 @@ return array(
 				array(
 				'type'  => 'textbox',
 				'name'  => 'link',
-				'label' => __('Image Link (Pro Only)', 'vp_textdomain'),
+				'label' => __('Image Link <br /><span style="color: #d63434">Pro Only</span>', 'vp_textdomain'),
 				'default' => 'http://google.com',
 			),
 
