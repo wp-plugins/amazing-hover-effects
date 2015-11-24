@@ -1,10 +1,10 @@
 === Amazing Hover Effects ===
 Contributors: noor-e-alam
 Donate link: http://demo.wpeffects.com/amazing-hover-effects/
-Tags: awesome css3 effects, awesome image effects,  	CSS Animation, css effects, css3, css3 effects, effects, effects css3, effects hover, hover, hover css effects, hover effects, mouse over top hover effects wordpress, animated image wp, 3d style effects, top image effects for wordpress, top image caption for wordpress, wordpress image hover plugin, image styles wordpress, best photo caption, best hover effects, best image caption wordpress, wordpress animation, css3 image caption, hover effect, css3 hover effects, css3 transition, animation, button, circle, css3, creative, css, effect, gallery, grid, hover, image, material, minimal, 3d, animated, animation, clean, css, css3, effects, hover, gallery, grid, hover, square, thumbnail, transition, caption, css3, hover, image, Caption Wordpress Plugin, Css Caption Plugin, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, wp image caption, css3 transition, content hover, captions, image captions, pure css3 effects, css3 hover item, css3 effects for wordpress
+Tags: awesome css3 effects, awesome image effects, CSS Animation, css effects, css3, css3 effects, effects, effects css3, effects hover, hover, hover css effects, hover effects, mouse over top hover effects wordpress, animated image wp, 3d style effects, top image effects for wordpress, top image caption for wordpress, wordpress image hover plugin, image styles wordpress, best photo caption, best hover effects, best image caption wordpress, wordpress animation, css3 image caption, hover effect, css3 hover effects, css3 transition, animation, button, circle, css3, creative, css, effect, gallery, grid, hover, image, material, minimal, 3d, animated, animation, clean, css, css3, effects, hover, gallery, grid, hover, square, thumbnail, transition, caption, css3, hover, image, Caption Wordpress Plugin, Css Caption Plugin, pure css3 effects, awesome image effects, responsive hover effects, gallery, photogallery, photos, text effect, thumbnails, wordpress hover, ihover wordpress plugin, image hover, wp image caption, css3 transition, content hover, captions, image captions, pure css3 effects, css3 hover item, css3 effects for wordpress
 Requires at least: 3.0.1
 Tested up to: 4.3
-Stable tag: 4.9.9
+Stable tag: 4.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,7 +75,7 @@ Installing this plugin as regular wordpress plugin.
 After install, this plugin enable a custom post called <strong>Hover Effects</strong>. Add category & items on that custom post. 
 After adding items, you are ready to use this plugin in your post, page, widget or anywhere you like. 
 
-Go to page > Add New. On the editor, you will see a button called <strong>Hover Shortcode</strong> by clicking button you see a popuop about shortcode settings panel. First you need enter your category. Use category title, not category id or slag. Make sure spelling is ok. It is case sensitive. You can customize the plugin with plugin settings option, after customizing click insert and save the page.
+Go to page > Add New. On the editor, you will see a button called <strong>Hover Shortcode</strong> by clicking button you see a popuop about shortcode settings panel. First you need enter your category. Use category title, not category id or slag. Make sure spelling is ok. It is case sensitive. You can customize the plugin with plugin shortcode builder, after customizing click insert and save the page.
 
 
 
@@ -88,6 +88,9 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 5. Shortcode builder option 2.
 
 == Changelog ==
+
+= 4.5.0 =
+* Fixed shortcode button issue in editor
 
 = 4.9.9 =
 * Fixed horizontal alignment issue
@@ -277,6 +280,9 @@ Go to page > Add New. On the editor, you will see a button called <strong>Hover 
 
 
 == Upgrade Notice ==
+
+= 4.5.0 =
+* Fixed shortcode button issue in editor
 
 = 4.9.9 =
 * Fixed horizontal alignment issue
